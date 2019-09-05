@@ -2,7 +2,7 @@
 
 # Assignments
 1. Name:
-  * *Tayler* **Schwartz**
+  * *Tayler* **Sindhu**
 2. Favorite Color:
   * <u>Pink</u>
 3. Link to Github repo:
