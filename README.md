@@ -4,6 +4,6 @@
 1. Name:
   * *Tayler* **Sindhu**
 2. Favorite Color:
-  * <u>Pink</u>
+  * ~~Pink~~
 3. Link to Github repo:
   * [Link to repository](https://github.com/NYUMachineLearning/hw0-taylersindhu)
